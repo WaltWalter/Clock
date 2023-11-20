@@ -1,0 +1,24 @@
+#clock{
+    margin-left: 25%;
+    font-size: 130px;
+    font-family: Orbitron;
+    color: skyblue;
+    font-weight: bolder;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+}
+body{
+    display: flex;
+    align-items: center;
+    background-image: url("./items/image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
